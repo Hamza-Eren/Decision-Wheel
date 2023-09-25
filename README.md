@@ -29,3 +29,6 @@ Bu uygulama bir karar çarkıdır.
 
 ![](https://github.com/Hamza-Eren/Decision-Wheel/blob/main/screenshot/result.png)
 > `Çarkı çevirme`
+
+1. Listeye ekleme yaparken, aynı kişiyi eklemeye çalışırken ve listeyi silerken gelen üst bildirimler animasyonludur.
+2. Çarkı çevir dediğinizde ekrana direkt sonuç yansıtılmaz, animasyonlu şekilde listedekiler rastgele geçer ve sonuç ekranda kalır.
